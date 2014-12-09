@@ -1,0 +1,20 @@
+# Plateforme : Jurisclasseur
+# Date configuration validée : 12/2014
+
+Option DomainCookieOnly
+Title LexisNexis (Jurisclasseur)
+URL http://www.lexisnexis.com/fr/droit
+DJ lexis-nexis.com
+DJ lexisnexis.com
+DJ lexis.com
+DJ cispubs.com
+HJ web.lexis-nexis.com
+HJ web.lexisnexis.com
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.com
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A 

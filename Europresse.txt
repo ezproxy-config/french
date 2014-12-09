@@ -1,0 +1,15 @@
+# Plateforme : Doctrinal plus
+# Date configuration validée : 12/2014
+# Note : penser à mettre à jour la ligne URL en remplaçant la chaîne entre ### par l'information donnée par le fournisseur
+
+Option HideEZproxy
+Option DomainCookieOnly
+Title Europresse
+URL http://www.bpe.europresse.com/ip/intro.asp?user=###À_COMPLÉTER_LOCALEMENT###
+Domain www.bpe.europresse.com
+Host www.bpe.europresse.com
+Host https://ssl.bpe.europresse.com
+DJ www.bpe.europresse.com
+HJ www.bpe.europresse.com
+Option Cookie
+Option NoHideEZproxy 

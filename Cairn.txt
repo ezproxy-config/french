@@ -1,0 +1,8 @@
+# Plateforme : Cairn
+# Date configuration validée : 12/2014
+
+Title Cairn
+URL http://www.cairn.info/
+Domain cairn.info
+Host cairn.info
+DJ cairn.info 

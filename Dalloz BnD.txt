@@ -1,0 +1,13 @@
+# Plateforme : Dalloz BND
+# Date configuration validée : 12/2014
+
+Title Dalloz BND
+URL http://www.dalloz-bibliotheque.fr/secure
+Domain dalloz-bibliotheque.fr
+Host dalloz-bibliotheque.fr
+DJ dalloz-bibliotheque.fr
+HJ dalloz-bibliotheque.fr
+DJ https://connexion.dalloz.fr
+DJ https://secureidpga.dalloz.fr
+HJ https://connexion.dalloz.fr
+HJ https://secureidpga.dalloz.fr/  

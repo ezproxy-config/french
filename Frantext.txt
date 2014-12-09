@@ -1,0 +1,6 @@
+# Plateforme : Frantext
+# Date configuration validée : 12/2014
+
+Title Frantext
+URL http://www.frantext.fr
+Domain frantext.fr 

@@ -1,0 +1,8 @@
+# Plateforme : eVidal
+# Date configuration validée : 12/2014
+
+Title eVidal
+URL http://use.evidal.net
+Host www.evidal.fr
+Domain evidal.net
+Domain use.evidal.net 

@@ -1,0 +1,6 @@
+# Plateforme : Année philologique
+# Date configuration validée : 12/2014
+
+Title Année philologique
+URL http://www.annee-philologique.com/aph/
+Domain annee-philologique.com 

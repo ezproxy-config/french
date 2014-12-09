@@ -1,0 +1,7 @@
+# Plateforme : Publie.net
+# Date configuration validée : 12/2014
+# Note : penser à remplacer la chaîne entre ### à partir de l'information donnée par le fournisseur
+
+Title Publie.net
+URL http://univ-###À_REMPLACER###.publie.net/
+Domain publie.net 

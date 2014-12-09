@@ -1,0 +1,7 @@
+# Plateforme : Doctrinal plus
+# Date configuration validée : 12/2014
+
+Title Doctrinal Plus
+URL http://newip.doctrinalplus.fr
+Domain doctrinalplus.fr
+Host newip.doctrinalplus.fr 

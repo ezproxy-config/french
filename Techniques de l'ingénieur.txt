@@ -1,0 +1,9 @@
+# Plateforme : Techniques de l'ingénieur
+# Date configuration validée : 12/2014
+
+Title Techniques de l'Ingénieur
+URL http://www.techniques-ingenieur.fr
+DJ techniques-ingenieur.fr
+DJ weka.fr
+Find resourceUrl=http://
+Replace resourceUrl=http://^A 

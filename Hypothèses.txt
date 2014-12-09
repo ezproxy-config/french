@@ -1,0 +1,6 @@
+# Plateforme : Hypothèses.org
+# Date configuration validée : 12/2014
+
+Title Hypothèse.org
+URL http://hypotheses.org/
+Domain hypotheses.org 

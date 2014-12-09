@@ -1,0 +1,6 @@
+# Plateforme : Garnier
+# Date configuration validée : 12/2014
+
+Title Classiques Garnier
+URL http://www.classiques-garnier.com/
+Domain classiques-garnier.com 

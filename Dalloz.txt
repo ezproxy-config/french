@@ -1,0 +1,21 @@
+# Plateforme : Dalloz
+# Date configuration validée : 12/2014
+
+Title Dalloz
+URL http://bu.dalloz.fr
+Domain dalloz.fr
+Host bu.dalloz.fr
+Host dalloz-revues.fr
+Host dalloz-actualite.fr
+DJ dalloz.fr
+DJ bu.dalloz.fr
+DJ dalloz-revues.fr
+DJ dalloz-actualite.fr
+HJ dalloz.fr
+HJ bu.dalloz.fr
+HJ dalloz-revues.fr
+HJ dalloz-actualite.fr
+DJ https://connexion.dalloz.fr
+DJ https://secureidpga.dalloz.fr
+HJ https://connexion.dalloz.fr
+HJ https://secureidpga.dalloz.fr/ 
