@@ -1,4 +1,4 @@
-french
+French
 ======
 
-Sharing french configuration files for EzProxy
+Sharing French configuration files for EzProxy
