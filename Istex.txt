@@ -1,0 +1,7 @@
+# Plateforme : Istex
+# Date configuration validée : 12/2014
+
+Title Plateforme Istex (API)
+URL   http://api.istex.fr/
+HJ    https://api.istex.fr/
+DJ    istex.fr
