@@ -1,7 +1,10 @@
-# Plateforme : Istex
-# Date configuration validée : 12/2014
+# API Istex
+# Date configuration validée : 02/2015
+Option NoX-Forwarded-For
 
 Title Plateforme Istex (API)
 URL   http://api.istex.fr/
 HJ    https://api.istex.fr/
 DJ    istex.fr
+
+Option X-Forwarded-For
