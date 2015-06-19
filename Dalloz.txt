@@ -3,7 +3,7 @@
 
 Title Dalloz
 MimeFilter application/json .* javascript
-URL http://bu.dalloz.fr
+URL http://www.dalloz.fr
 DJ dalloz.fr
 DJ dalloz-revues.fr
 DJ dalloz-actualite.fr
