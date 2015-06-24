@@ -1,0 +1,12 @@
+Title ELnet.fr
+MimeFilter application/json .* javascript
+MimeFilter text/plain .* javascript
+URL http://www.elnet.fr/
+DJ elnet.fr
+DJ gestion-des-acces.fr
+DJ editions-legislatives.fr
+HJ https://securega.gestion-des-acces.fr
+HJ https://secureidp.gestion-des-acces.fr
+HJ https://proxyel.gestion-des-acces.fr
+Find http:\/\/
+Replace http://
