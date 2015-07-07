@@ -3,13 +3,16 @@
 
 Title Dalloz
 MimeFilter application/json .* javascript
+MimeFilter text/plain .* javascript
 URL http://www.dalloz.fr
 DJ dalloz.fr
-DJ dalloz-revues.fr
-DJ dalloz-actualite.fr
 HJ dalloz.fr
 HJ dalloz-revues.fr
+DJ dalloz-revues.fr
 HJ dalloz-actualite.fr
+DJ dalloz-actualite.fr
+DJ dalloz-bibliotheque.fr
+HJ dalloz-bibliotheque.fr
 DJ https://connexion.dalloz.fr
 DJ https://secureidpga.dalloz.fr
 HJ https://connexion.dalloz.fr
