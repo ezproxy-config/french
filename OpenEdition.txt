@@ -1,12 +1,13 @@
 # Plateforme : OpenEdition
-# Date configuration validée : 12/2014
+# Date configuration validée : 10/2015
 
 Title OpenEdition
-URLhttp://www.openedition.org
+URL http://www.openedition.org
 DJ openedition.org
 DJ revues.org
 DJ hypotheses.org
-DJ books.openedition.org
-Host genesis.revues.org
-Find value="http://
-Replace value="http://^A 
+DJ calenda.org
+Host bookserver.openedition.org
+Host search.openedition.org
+NeverProxy static.openedition.org
+NeverProxy static-origin.openedition.org
