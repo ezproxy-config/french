@@ -1,0 +1,7 @@
+# plateforme ENI
+# Date configuration validée : 03/2016
+Title ENI
+URL http://www.mediapluspro.com/mediaplus67/client_net/mediabook.aspx
+DJ mediapluspro.com
+Find window.location.href = res.value.ResultListFullPath;
+Replace window.location.href = res.value.ResultListFullPath.replace('http://www.mediapluspro.com/mediaplus67/client_net/mediabook.aspx', 'http://www.mediapluspro.com.ezproxy.upf.pf/mediaplus67/client_net/mediabook.aspx');
