@@ -1,0 +1,10 @@
+## OVID Pascal Francis
+Title Pascal et Francis - Ovid
+URL http://ovidsp.ovid.com/autologin.html
+Host gateway.ovid.com
+DJ ovid.com
+DJ anatomy.tv
+Find returnUrl=http://
+Replace returnUrl=http://^A
+Find id="returnUrl" value="http://
+Replace id="returnUrl" value="http://^A

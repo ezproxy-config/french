@@ -1,0 +1,10 @@
+##La Recherche
+Title La Recherche
+URL http://numerique.larecherche.fr/?subid=9%2F48007 
+DJ numerique.larecherche.fr
+Find value='http://
+Replace value='http://^A
+Find value='https://
+Replace value='https://^A
+Host numerique.larecherche.fr
+Option Cookie
