@@ -1,0 +1,11 @@
+# Plateforme : Early English Books Online
+# Date configuration validée : 06/2016
+
+Title Chadwyck Early English Books Online
+URL http://eebo.chadwyck.com
+DJ eebo.chadwyck.com
+Find &url=http://
+Replace &url=http://^A
+Find "eebo.chadwyck.com" == document.location.host
+Replace true
+Option Cookie

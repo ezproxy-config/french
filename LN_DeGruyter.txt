@@ -1,0 +1,15 @@
+# Plateforme : De Gruyter
+# Date configuration validée : 06/2016
+
+Title De Gruyter Online
+URL http://www.degruyter.com
+HJ degruyter.com
+HJ degruyter.de
+HJ reference-global.com
+HJ www.reference-global.com
+HJ www.degruyter.com
+HJ www.degruyter.de
+HJ https://degruyter.com
+HJ https://www.degruyter.com
+HJ www.rgz-rgst.degruyter.de
+DJ degruyter.com
