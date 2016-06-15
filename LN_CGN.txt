@@ -1,0 +1,6 @@
+# Plateforme : Classiques Garnier Numérique
+# Date configuration validée : 06/2016
+
+Title Garnier (Classiques Garnier)
+URL http://www.classiques-garnier.com
+D classiques-garnier.com

@@ -1,0 +1,6 @@
+# Plateforme : Recueils de cours de l'Académie de La Haye
+# Date configuration validée : 06/2016
+
+T Recueils de cours de l'Académie de La Haye
+URL http://nijhoffonline.nl/public_home
+DJ nijhoffonline.nl

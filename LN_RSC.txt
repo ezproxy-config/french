@@ -1,0 +1,16 @@
+# Plateforme : Royal Society of Chemistry Publishing
+# Date configuration validée : 06/2016
+
+T Royal Society of Chemistry
+U http://pubs.rsc.org/
+H pubs.rsc.org
+H www.rsc.org
+H xlink.rsc.org
+DJ rsc.org
+
+T Royal Society of Chemistry - SSL
+U https://pubs.rsc.org/
+H pubs.rsc.org
+H www.rsc.org
+H xlink.rsc.org
+DJ rsc.org 
