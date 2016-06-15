@@ -1,0 +1,8 @@
+# Plateforme : Eighteenth Century Collections Online
+# Date configuration validée : 06/2016
+
+Title Gale/Infotrac/PowerSearch Databases (ECCO)
+URL http://infotrac.galegroup.com/itweb/abes
+DJ galegroup.com
+DJ google.com
+DJ readspeaker.com

@@ -1,0 +1,6 @@
+# Plateforme : Brill Online Books and Journals
+# Date configuration validée : 06/2016
+
+T Brill revues
+U http://booksandjournals.brillonline.com/
+DJ brillonline.com
