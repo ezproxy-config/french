@@ -1,0 +1,47 @@
+# Plateforme : Lexis 360
+# Date configuration validée : 09/2016
+# stanza fournie par le prestataire
+# attention : ne fonctionne qu'avec un paramétrage Proxy ByHostName (pas Proxy by Port)
+# cf https://www.oclc.org/support/services/ezproxy/documentation/cfg/proxybyhostname.en.html
+
+
+Option DomainCookieOnly
+Title Lexis 360
+URL http://www.lexis360.fr/Home.aspx
+DJ lexis360.fr
+DJ lexis-nexis.com
+DJ lexisnexis.com
+HJ academic.lexisnexis.eu
+HJ academic.lexisnexis.nl
+HJ api.lexisnexis.eu
+DJ lexisnexis.eu
+DJ lexis.com
+DJ lexiscn.com
+DJ cispubs.com
+DJ nexis.com
+HJ web.lexis-nexis.com
+HJ web.lexisnexis.com
+HJ widgetserver.lexisnexis.nl
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.com
+HJ https://www.lexisnexis.com
+HJ www.lexis.com
+HJ www.lexiscn.com
+HJ w3.lexis.com
+HJ www.nexis.com
+HJ nexis.com
+HJ companydashboard.lexisnexis.nl
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Find domain = "www.nexis.com"
+Replace domain = "^pwww.nexis.com^"
