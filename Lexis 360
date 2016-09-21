@@ -4,6 +4,7 @@
 # attention : ne fonctionne qu'avec un paramétrage Proxy ByHostName (pas Proxy by Port)
 # cf https://www.oclc.org/support/services/ezproxy/documentation/cfg/proxybyhostname.en.html
 
+# À supprimer lorsqu'OCLC aura mis à jour sa configuration pour sala nouvelle plateforme 360 ( https://www.oclc.org/support/services/ezproxy/documentation/db/lexisnexis.en.html )
 
 Option DomainCookieOnly
 Title Lexis 360
