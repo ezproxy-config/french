@@ -1,0 +1,15 @@
+# Plateforme : Lamyline
+# Date configuration validée : 09/2016
+# Remplacer ------ dans l'URL par le token fourni par Lamyline et spécifique à chaque établissement
+
+Title Lamyline
+Option NoX-Forwarded-For
+URL   http://lamyline.lamy.fr/Content/Inicio.aspx?DATA=-----------
+DJ    lamy.fr
+DJ    lamyline.fr
+DJ    lamyline.lamy.fr
+HJ    lamy.fr
+HJ    lamyline.lamy.fr
+DJ    mediaswk.com
+DJ    jsdelivr.net
+DJ    wkcols.com
