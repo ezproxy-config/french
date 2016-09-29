@@ -1,6 +1,7 @@
 # Plateforme : Lamyline
 # Date configuration validée : 09/2016
 # Remplacer ------ dans l'URL par le token fourni par Lamyline et spécifique à chaque établissement
+# À supprimer le jour où OCLC aura mis à jour ton stanza : https://www.oclc.org/support/services/ezproxy/documentation/db/lamyline.en.html
 
 Title Lamyline
 Option NoX-Forwarded-For
