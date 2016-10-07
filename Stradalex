@@ -1,5 +1,6 @@
 # Plateforme : Stradalex
 # Date configuration fournie par le SCD de Strasbourg  : 10/2016
+# L'option HttpsHyphens doit être activée avec cette configuration
 
 Title Strada Lex
 URL https://www.stradalex.eu
