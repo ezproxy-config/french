@@ -1,7 +1,8 @@
 # plateforme ENI
-# Date configuration validée : 03/2016
+# Date configuration validée : 10/2016
+# remplacer {identifiant client} par un identifiant propre à votre établissement, par ex "univ-antilles"
 Title ENI
-URL http://www.mediapluspro.com/mediaplus67/client_net/mediabook.aspx
+URL http://www.eni-training.com/cs/{identifiant client}
+Host www.eni-training.com
+Domain eni-training.com
 DJ mediapluspro.com
-Find window.location.href = res.value.ResultListFullPath;
-Replace window.location.href = res.value.ResultListFullPath.replace('http://www.mediapluspro.com/mediaplus67/client_net/mediabook.aspx', 'http://www.mediapluspro.com.ezproxy.upf.pf/mediaplus67/client_net/mediabook.aspx');
