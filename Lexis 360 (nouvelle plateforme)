@@ -1,0 +1,53 @@
+Option DomainCookieOnly
+Option NoX-Forwarded-For
+Title    LexisNexis (Jurisclasseur) </td><td>Tout l'UL
+URL      http://www.lexisnexis.com/fr/droit
+#URL http://www.lexisnexis.com/hottopics/lnacademic
+# pour lexis360
+HJ www.lexis360.fr
+DJ lexis360.fr
+HJ https://www.lexis360.fr
+HJ cert-www.lexis360.fr
+HJ https://cert-www.lexis360.fr
+HJ cdc9-www.lexis360.com
+HJ https://cdc9-www.lexis360.com
+HJ web.lexis360.fr
+DJ lexis360.com
+DJ lexis-nexis.com
+DJ lexisnexis.com
+HJ academic.lexisnexis.eu
+HJ academic.lexisnexis.nl
+HJ api.lexisnexis.eu
+DJ lexisnexis.eu
+DJ lexis.com
+DJ lexiscn.com
+DJ cispubs.com
+DJ nexis.com
+HJ web.lexis-nexis.com
+HJ web.lexisnexis.com
+HJ widgetserver.lexisnexis.nl
+HJ www.lexis-nexis.com
+HJ www.lexisnexis.com
+HJ https://www.lexisnexis.com
+HJ www.lexis.com
+HJ www.lexiscn.com
+HJ w3.lexis.com
+HJ www.nexis.com
+HJ nexis.com
+HJ companydashboard.lexisnexis.nl
+Find location.hostname
+Replace location.host
+Find = "www.lexisnexis.com"
+Replace = "^pwww.lexisnexis.com^"
+Find &unix=http://
+Replace &unix=http://^A
+Find GetCookie("LNAUTH")
+Replace "LNAUTH-IP"
+Find NAME="_PRIORREFERER" VALUE="http://
+Replace NAME="_PRIORREFERER" VALUE="http://^A
+Find NAME="_PRIORREFERER" VALUE="https://
+Replace NAME="_PRIORREFERER" VALUE="https://^A
+Find domain = "www.nexis.com"
+Replace domain = "^pwww.nexis.com^"
+Option Cookie
+Option X-Forwarded-For
