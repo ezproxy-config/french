@@ -5,5 +5,6 @@ Title Techniques de l'Ingénieur
 URL http://www.techniques-ingenieur.fr
 DJ techniques-ingenieur.fr
 DJ weka.fr
+RedirectSafe cdn.techniques-ingenieur.fr
 Find resourceUrl=http://
 Replace resourceUrl=http://^A 
