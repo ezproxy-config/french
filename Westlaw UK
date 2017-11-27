@@ -1,0 +1,21 @@
+# Plateforme : Westlaw UK
+# Date configuration validée : 11/2017
+# Note : penser à mettre à jour la ligne URL en remplaçant la chaîne entre ### par l'information donnée par le fournisseur
+# Supprimer lorsque la stanza sera mise à jour chez OCLC
+
+Option DomainCookieOnly
+Title Westlaw UK
+URL https://login.westlaw.co.uk/maf/wluk/ext/app/tocectory?stnew=true&sp=###À_COMPLÉTER_LOCALEMENT###
+HJ legalresearch.westlaw.co.uk
+HJ login.westlaw.co.uk
+HJ login.westlaw.ie
+HJ westlaw.co.uk
+HJ westlaw.ie
+HJ www.westlaw.co.uk
+HJ www.westlaw.ie
+HJ signon.thomsonreuters.com
+DJ westlaw.com
+DJ westlaw.co.uk
+DJ westlaw.ie
+DJ thomsonreuters.com
+Option Cookie
