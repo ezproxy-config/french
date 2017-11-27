@@ -1,0 +1,152 @@
+# Plateforme : EDP Sciences
+# Date configuration validée : 11/2017
+# Configuration Université de Tours, à adapter en fonction des titres souscrits
+
+Title EDP Sciences
+URL https://publications.edpsciences.org
+HJ https://publications.edpsciences.org
+DJ edpsciences.org
+# Actualités Odonto-Stomatologiques
+H https://aos.edp-dentaire.fr/
+# Annales de Limnologie - International Journal of Limnology
+H https://www.limnology-journal.org/
+# Annales de Physique
+H https://www.annphys.org/
+# Annales de Toxicologie Analytique
+H https://www.ata-journal.org/
+# Aquatic Living Resources
+H https://www.alr-journal.org/
+# Astronomy & Astrophysics
+H https://www.aanda.org/
+# Astronomy and Astrophysics Supplement Series
+H https://aas.aanda.org/
+# Biologie Aujourd'hui
+H https://www.biologie-journal.org/
+# BIO Web of Conferences
+H https://www.bio-conferences.org/
+# Bulletin de l’Union Nationale pour l’Intérêt de l’Orthopédie Dento-Faciale
+H https://www.uniodf-journal.org/
+# Droit et Médecine Bucco-Dentaire
+H https://www.rdmbd.org/
+# EAS Publications Series
+H https://www.eas-journal.org/
+# Éducation thérapeutique du patient/Therapeutic patient education
+H https://www.etp-journal.org/
+# Environmental Biosafety Research
+H https://www.ebr-journal.org/
+# EPJ AP
+H https://www.epjap.org/
+# EPJ Photovoltaics
+H https://epjpv.epj.org/
+# EPJ Web of Conferences
+H https://www.epj-conferences.org/
+# EPL
+H https://epljournal.edpsciences.org/
+# ESAIM: Control, Optimisation and Calculus of Variations
+H https://www.esaim-cocv.org/
+# ESAIM: Mathematical Modelling and Numerical Analysis
+H https://www.esaim-m2an.org/
+# ESAIM: Probability and Statistics
+H https://www.esaim-ps.org/
+# ESAIM: Proceedings and Surveys
+H https://www.esaim-proc.org/
+# Europhysics News
+H https://www.europhysicsnews.org/
+# Fruits
+H https://fruits.edpsciences.org/
+# Histoire Épistémologie Langage
+H https://www.hel-journal.org/
+# Houille Blanche (La)
+H https://www.shf-lhb.org/
+# Hydroécologie Appliquée
+H https://www.hydroecologie.org/
+# International Journal for Simulation and Multidisciplinary Design Optimization
+H https://www.ijsmdo.org/
+# International Journal of Metrology and Quality Engineering
+H https://www.metrology-journal.org/
+# J3eA
+H https://www.j3ea.org/
+# Journal de Chimie Physique et de Physico-Chimie Biologique
+H https://jcp.edpsciences.org/
+# Journal of Dentofacial Anomalies and Orthodontics
+H https://www.jdao-journal.org/
+# Journal of Space Weather and Space Climate
+H https://www.swsc-journal.org/
+# Knowledge and Management of Aquatic Ecosystems
+H https://www.kmae-journal.org/
+# MATEC Web of Conferences
+H https://www.matec-conferences.org/
+# Matériaux & Techniques
+H https://www.mattech-journal.org/
+# Mathematical Modelling of Natural Phenomena
+H https://www.mmnp-journal.org/
+# Mechanics & Industry
+H https://www.mechanics-industry.org/
+# Médecine Buccale Chirurgie Buccale
+H https://www.mbcb-journal.org/
+# Médecine & Nutrition
+H https://www.medecine-nutrition.org/
+# médecine/sciences
+H https://www.medecinesciences.org/
+# Metallurgical Research & Technology
+H https://www.metallurgical-research.org/
+# Microscopy Microanalysis Microstructures
+H https://mmm.edpsciences.org/
+# Movement & Sport Sciences - Science & Motricité
+H https://www.mov-sport-sciences.org/
+# Natures Sciences Sociétés
+H https://www.nss-journal.org/
+# Oil & Gas Science and Technology - Rev. IFP Energies nouvelles
+H https://ogst.ifpenergiesnouvelles.fr/
+# Orthodontie Française (L')
+H https://www.orthodfr.org/
+# Parasite
+H https://www.parasite-journal.org/
+# Pédagogie Médicale
+H https://www.pedagogie-medicale.org/
+# Perspectives Psy
+H https://www.perspectives-psy.org/
+# psychologie clinique
+H https://www.psycho-clinique.org/
+# Radioprotection
+H https://www.radioprotection.org/
+# RAIRO - Operations Research
+H https://www.rairo-ro.org/
+# RAIRO - Theoretical Informatics and Applications
+H https://www.rairo-ita.org/
+# Revue d'Orthopédie Dento-Faciale
+H https://odf.edpsciences.org/
+# Revue Française de Géotechnique
+H https://www.geotechnique-journal.org/
+# SHS Web of Conferences
+H https://www.shs-conferences.org/
+# Thérapie
+H https://www.journal-therapie.org/
+# Journal de Physique
+H https://jphys.journaldephysique.org/
+# Journal de Physique Colloques
+H https://jphyscol.journaldephysique.org/
+# Journal de Physique et le Radium
+H https://jphysrad.journaldephysique.org/
+# Journal de Physique I
+H https://jp1.journaldephysique.org/
+# Journal de Physique II
+H https://jp2.journaldephysique.org/
+# Journal de Physique III
+H https://jp3.journaldephysique.org/
+# Journal de Physique IV - Proceedings
+H https://jp4.journaldephysique.org/
+# Journal de Physique Lettres
+H https://jphyslet.journaldephysique.org/
+# Journal de Physique... (Supplément)
+H https://jphysap.journaldephysique.org/
+# J. Phys. Theor. Appl.
+H https://jphystap.journaldephysique.org/
+# Radium (Le)
+H https://radium.journaldephysique.org/
+# Revue de Physique Appliquée (Paris)
+H https://rphysap.journaldephysique.org/
+# Cahiers de l'Association Scientifique Européenne pour l'Eau et la Santé
+H https://asees.water-quality-journal.org/
+# European Journal of Water Quality
+H https://www.water-quality-journal.org/
