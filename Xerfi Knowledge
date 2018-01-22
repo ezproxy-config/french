@@ -1,0 +1,22 @@
+# Plateforme : Xerfi Knowledge
+# Date configuration validée : 01/2018
+# Remplacer ------ dans l'URL par le token fourni par Xerfi et spécifique à chaque établissement
+# stanza bricolée à tâtons et certainement améliorable
+
+Title Xerfi Knowledge
+URL https://www.xerfiknowledge.com/xerfifrance/loginclient/------------/xerfi/-----------
+HJ https://www.xerficanal-economie.com
+HJ https://www.xerfi-business-tv.com
+HJ https://www.xerfi.com
+HJ https://www.xerficanal.com/
+HJ https://www.precepta.fr
+HJ http://www.xerfi-precepta-strategiques-tv.com/
+HJ http://www.xerfisynthese.com
+Domain xerfiknowledge.com
+DJ xerficanal-economie.com
+DJ xerfi-business-tv.com
+DJ xerfi.com
+DJ xerficanal.com
+DJ precepta.fr
+DJ xerfi-precepta-strategiques-tv.com
+DJ xerfisynthese.com
