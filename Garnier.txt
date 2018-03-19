@@ -1,6 +1,8 @@
-# Plateforme : Garnier
-# Date configuration validée : 12/2014
-
+# Classiques Garnier
 Title Classiques Garnier
-URL http://www.classiques-garnier.com/
-Domain classiques-garnier.com 
+URL https://classiques-garnier.com/
+HJ classiques-garnier.com
+HJ www.classiques-garnier.com
+HJ https://classiques-garnier.com
+HJ https://www.classiques-garnier.com
+DJ classiques-garnier.com
