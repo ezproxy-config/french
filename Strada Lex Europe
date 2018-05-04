@@ -1,0 +1,17 @@
+# Plateforme : Strada Lex Europe (nouvelle plateforme)
+# Date configuration fournie par le SCD de Rennes 1  : 05/2018
+# L'option HttpsHyphens doit être activée avec cette configuration
+
+AnonymousURL -CS +https://d181c3udejoqg1.cloudfront.net/*
+AnonymousURL -CS -Options +https://larbiz-api.larciergroup.com/*
+AnonymousURL -CS -Options +https://dbs.larciergroup.com/*
+Title Strada Lex
+URL https://www.stradalex.eu
+HJ https://www.stradalex.eu
+HJ https://dbs.larciergroup.com
+HJ https://larbiz-api.larciergroup.com
+HJ https://d181c3udejoqg1.cloudfront.net
+DJ cloudfront.net
+DJ stradalex.eu
+DJ larciergroup.com
+AnonymousURL -*
