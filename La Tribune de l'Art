@@ -1,0 +1,29 @@
+######################################### 
+#          La Tribune de l'Art          #
+#########################################
+# Date d'ajout : 05/07/2018
+# Initiales :
+# Commentaire :
+# Date du dernier test : 05/07/2018
+# *************************
+# ***** Modifications *****
+# Date de modification :
+# Initiales :
+# Commentaire : Les polices d'icônes chargées par les règles @font-face
+# ne sont pas chargées par le navigateur à cause d'un problème CORS.
+# Après avoir essayé RedirectSafe, Access-Control-Allow-Origin
+# et AnonymousURL, c'est finalement en réécrivant les url avec
+# Find/Replace que le problème semble réglé.
+# Pour l'adapter à votre université, www-latribunedelart-com.accesdistant.sorbonne-universite.fr
+# doit être remplacé par l'accès proxyfié de votre établissement.
+# *************************
+
+Title La Tribune de l'Art
+URL https://www.latribunedelart.com/
+DJ www.latribunedelart.com
+Find www.latribunedelart.com
+Replace www-latribunedelart-com.accesdistant.sorbonne-universite.fr
+
+######################################### 
+#        FIN La Tribune de l'Art        #
+#########################################
