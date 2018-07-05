@@ -14,6 +14,8 @@
 # Après avoir essayé RedirectSafe, Access-Control-Allow-Origin
 # et AnonymousURL, c'est finalement en réécrivant les url avec
 # Find/Replace que le problème semble réglé.
+# Pour l'adapter à votre université, www-latribunedelart-com.accesdistant.sorbonne-universite.fr
+# doit être remplacé par l'accès proxyfié de votre établissement.
 # *************************
 
 Title La Tribune de l'Art
