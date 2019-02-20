@@ -6,6 +6,7 @@ HTTPHeader X-JSON
 Title Plateforme ISTEX (API)
 MimeFilter application/json .* javascript
 URL   http://api.istex.fr/
+HJ https://revue-sommaire.data.istex.fr
 HJ    https://api.istex.fr
 HJ     http://istex.github.io
 HJ     https://istex.github.io
