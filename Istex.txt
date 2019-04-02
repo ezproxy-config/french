@@ -1,25 +1,22 @@
 # API Istex
-# Date configuration validée : 06/2015
+AnonymousURL +https://web-header.delivery.istex.fr/*
+AnonymousURL +https://api.istex.fr/document/*
+AnonymousURL +https://*.data.istex.fr/api/*
 Option NoX-Forwarded-For
-
-HTTPHeader X-JSON
 Title Plateforme ISTEX (API)
+URL http://api.​istex.fr/
+HTTPHeader X-JSON
 MimeFilter application/json .* javascript
-URL   http://api.istex.fr/
 HJ https://revue-sommaire.data.istex.fr
-HJ    https://api.istex.fr
-HJ     http://istex.github.io
-HJ     https://istex.github.io
-HJ     http://widget.istex.fr
-HJ     https://widget.istex.fr
-DJ    istex.fr
+HJ https://api.istex.fr
+HJ http://istex.github.io
+HJ https://istex.github.io
+HJ http://widget.istex.fr
+HJ https://widget.istex.fr
+DJ istex.fr
 find https://api.istex.fr
 replace https://^Sapi.istex.fr^
-Find http:\/\/
-Replace http://
-Find https:\/\/
-Replace https:\/\/
-
+NeverProxy docs.google.com
+NeverProxy piwik2.inist.fr
 Option X-Forwarded-For
-
-
+AnonymousURL -*
