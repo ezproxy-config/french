@@ -1,10 +1,12 @@
+# L'option NoX-Forwarded-For / X-Forwarded-For n'est pas nécessaire dans une configuration standard, c'est le comportement par défaut d'ezproxy 
+
 # API Istex
 AnonymousURL +https://web-header.delivery.istex.fr/*
 AnonymousURL +https://api.istex.fr/document/*
 AnonymousURL +https://*.data.istex.fr/api/*
 Option NoX-Forwarded-For
 Title Plateforme ISTEX (API)
-URL http://api.​istex.fr/
+URL http://api.istex.fr/
 HTTPHeader X-JSON
 MimeFilter application/json .* javascript
 HJ https://revue-sommaire.data.istex.fr
