@@ -1,6 +1,8 @@
 # Plateforme : Société mathématique de France
-# Date configuration validée : 12/2014
+# Date configuration validée : 04/2019
 
-Title Societe Mathematique de France
-URL http://smf4.emath.fr
-Domain emath.fr
+Title Société Mathématique de France
+URL https://smf.emath.fr
+DJ emath.fr
+Find https:\/\/
+Replace https:\/\/
