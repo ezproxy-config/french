@@ -1,20 +1,17 @@
+
+# Plateforme : ELnet.fr
+# Date configuration validée : 04/2019
+
 Option DomainCookieOnly
 Title Editions législatives ELnet.fr
-MimeFilter application/json .* javascript
-MimeFilter text/plain .* javascript
-URL http://www.elnet.fr/GA/login
+HTTPHeader Book-Authorization
+URL https://www.elnet.fr/GA/login
 DJ elnet.fr
 DJ gestion-des-acces.fr
-HJ vp.elnet.fr
-DJ vp.elnet.fr
-HJ oas.elnet.fr
-DJ oas.elnet.fr
 DJ editions-legislatives.fr
+HJ https://vp.elnet.fr
+HJ https://oas.elnet.fr
 HJ https://securega.gestion-des-acces.fr
 HJ https://secureidp.gestion-des-acces.fr
 HJ https://proxyel.gestion-des-acces.fr
-Find http:\/\/
-Replace http://
-Find https:\/\/
-Replace https://
 Option cookie
