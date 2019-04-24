@@ -1,13 +1,27 @@
 # Plateforme : OpenEdition
-# Date configuration validée : 10/2015
+# Date configuration validée : 04/2019
 
-Title OpenEdition
+AnonymousURL +https://search.openedition.org/*
+AnonymousURL +https://search-api.openedition.org/*
+Title openedition
 URL http://www.openedition.org
-DJ openedition.org
-DJ revues.org
-DJ hypotheses.org
-DJ calenda.org
-Host bookserver.openedition.org
-Host search.openedition.org
 NeverProxy static.openedition.org
 NeverProxy static-origin.openedition.org
+DJ openedition.org
+HJ https://books.openedition.org
+HJ https://journals.openedition.org
+HJ https://www.openedition.org
+HJ https://auth.openedition.org
+HJ https://search.openedition.org
+HJ https://search-api.openedition.org
+HJ books.openedition.org
+HJ journals.openedition.org
+HJ www.openedition.org
+HJ auth.openedition.org
+HJ search.openedition.org
+HJ search-api.openedition.org
+Find http:\/\/
+Replace http://
+Find https:\/\/
+Replace https:\/\/
+AnonymousURL -*
