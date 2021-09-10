@@ -1,10 +1,13 @@
 # L'option NoX-Forwarded-For / X-Forwarded-For n'est pas nécessaire dans une configuration standard, c'est le comportement par défaut d'ezproxy 
+# Note 2021 : NoX-Forwarded-For est le comportement par défaut d'EzProxy, les deux lignes commentées dans la stanza ci-dessous 
+# avaient été ajoutée dans le cadre du commit e308db2c0598cd8b703acff3d7f3ae2e2fc0e537 comme utile à l'INIST mais cela conduit à des conflits
+# avec d'autres ressources.
 
 # API Istex
 AnonymousURL +https://web-header.delivery.istex.fr/*
 AnonymousURL +https://api.istex.fr/document/*
 AnonymousURL +https://*.data.istex.fr/api/*
-Option NoX-Forwarded-For
+# Option NoX-Forwarded-For
 Title Plateforme ISTEX (API)
 URL http://api.istex.fr/
 HTTPHeader X-JSON
@@ -23,5 +26,5 @@ find https://api.istex.fr
 replace https://^Sapi.istex.fr^
 NeverProxy docs.google.com
 NeverProxy piwik2.inist.fr
-Option X-Forwarded-For
+# Option X-Forwarded-For
 AnonymousURL -*
